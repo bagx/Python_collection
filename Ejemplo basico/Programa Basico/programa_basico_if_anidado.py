@@ -13,5 +13,5 @@ elif num < 0:
     result = "Es un número negativo" 
 else: 
     result = "Este número es cero" 
-# Imprime el resultado 
-    print(result)
+# Imprime el resultado     
+print(result)
