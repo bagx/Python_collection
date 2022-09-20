@@ -1,0 +1,18 @@
+Creación desde la terminal
+
+1. Abra una terminal
+	Ctrl + Alt + T
+
+2. Compruebar que se tenga python instalado
+	python --version
+	
+3. abra un archivo .py 
+	nano hola.py
+
+4. EScriba la sentencia.
+	print("Hola Python")
+
+5. Guarde y cierre el editor de texto.
+
+6. Ejecute el programa con:
+	sudo python3 hola.py
