@@ -6,6 +6,6 @@ edad = int (input ("ingresa tu edad: "))
 peso = float (input ("¿cuánto pesas? "))  
 
 #imprime los datos 
-print("El valor de x es:", x)
+print("El valor de x es:", x) 
 print("El valor de y es:", y) 
 print("Tu color favorito es ",w, ", tienes",edad, " años y pesas ",peso," kg")
